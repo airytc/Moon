@@ -1,5 +1,5 @@
 # Site
-title:              Air
+title:              In The Air
 bio:                'Coding, Travelling, Photographing, Reading and Writing'
 description:        "personal blog"
 reading_time:       true
@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              airytc0@gmail.com
 twitter:            airytc
 #facebook:           username
 #github-url:         airytc
