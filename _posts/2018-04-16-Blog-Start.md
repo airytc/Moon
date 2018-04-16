@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Blog开篇"
+date: 2018-04-16
+excerpt: "作为自己真正意义上的Blog的开篇，我想说点自己的想法。"
+tags: [essay, thoughts]
+comments: true
+---
+
 # Blog开篇
 
 作为自己真正意义上的Blog的开篇，我想说点自己的想法。
